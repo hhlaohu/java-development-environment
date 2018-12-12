@@ -41,6 +41,11 @@ https://www.jetbrains.com/idea/download
 
 `10.Translation`
 
+`11.Lombok `
+Lombok 介绍
+https://blog.csdn.net/motui/article/details/79012846
+
+
 
 # 工具安装
 `sourcetree安装`
